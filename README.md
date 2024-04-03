@@ -12,7 +12,7 @@
 <h3>Some of my skills</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,typescript,angular,python,mongodb,mysql,nodejs,postman,git,github,vscode,windows" />
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,typescript,angular,react,python,mongodb,gcp,mysql,nodejs,postman,git,github,vscode,windows" />
     </a>
   </p>
 </section>
